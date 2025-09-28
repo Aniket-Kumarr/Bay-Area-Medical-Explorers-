@@ -57,10 +57,17 @@ body {
     font-size: 1.2rem;
 }
 
+.logo-img {
+  height: 40px;   
+  width: auto;   
+}
+
 .nav-logo h2 {
-    color: #e91e63;
-    font-weight: 700;
-    font-size: 1.5rem;
+    color: #5C0000;
+	font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+	letter-spacing: 0.5px;
 }
 
 .nav-menu {
@@ -181,7 +188,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #fce4ec 0%, #ffffff 100%);
+    background: linear-gradient(135deg, #ffb6c1 0%, #ffffff 100%);
     padding: 120px 0 80px;
     min-height: 100vh;
     display: flex;
@@ -361,7 +368,7 @@ body {
 
 /* Impact Stats */
 .impact-stats {
-    background: linear-gradient(135deg, #fce4ec, #ffffff);
+	background: linear-gradient(135deg, #ffb6c1, #ffffff);
     padding: 60px 0;
 }
 
@@ -481,7 +488,7 @@ body {
 /* Programs Section */
 .programs {
     padding: 80px 0;
-    background: linear-gradient(135deg, #fce4ec, #ffffff);
+	background: linear-gradient(135deg, #ffb6c1, #ffffff);
 }
 
 .programs-grid {
@@ -614,7 +621,7 @@ body {
 /* Get Involved Section */
 .get-involved {
     padding: 80px 0;
-    background: linear-gradient(135deg, #fce4ec, #ffffff);
+	background: linear-gradient(135deg, #ffb6c1, #ffffff);		
 }
 
 .involvement-grid {
@@ -946,7 +953,7 @@ body {
 
 /* Page Hero Styles */
 .page-hero {
-    background: linear-gradient(135deg, #fce4ec 0%, #ffffff 100%);
+    background: linear-gradient(135deg, #ffb6c1 0%, #ffffff 100%);
     padding: 120px 0 80px;
     text-align: center;
 }
@@ -1024,7 +1031,7 @@ body {
 /* Story Timeline */
 .story {
     padding: 80px 0;
-    background: linear-gradient(135deg, #fce4ec, #ffffff);
+	background: linear-gradient(135deg, #ffb6c1, #ffffff);	
 }
 
 .story-timeline {
@@ -1154,7 +1161,7 @@ body {
 }
 
 .program-detail.alt {
-    background: linear-gradient(135deg, #fce4ec, #ffffff);
+	background: linear-gradient(135deg, #ffb6c1, #ffffff);	
 }
 
 .program-content {
@@ -1364,7 +1371,7 @@ body {
 /* Application Process */
 .application-process {
     padding: 80px 0;
-    background: linear-gradient(135deg, #fce4ec, #ffffff);
+	background: linear-gradient(135deg, #ffb6c1, #ffffff);	
 }
 
 .process-steps {
@@ -1594,7 +1601,7 @@ body {
 /* Event Categories */
 .event-categories {
     padding: 80px 0;
-    background: linear-gradient(135deg, #fce4ec, #ffffff);
+	background: linear-gradient(135deg, #ffb6c1, #ffffff);	
 }
 
 .categories-grid {
@@ -1868,7 +1875,7 @@ body {
 /* Internships Section */
 .internships-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, #fce4ec, #ffffff);
+    background: linear-gradient(135deg, #ffb6c1, #ffffff);
 }
 
 .internship-grid {
