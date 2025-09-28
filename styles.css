@@ -163,7 +163,14 @@ body {
     border-left-color: #e91e63;
 }
 
-/* Removed dropdown arrow styles */
+/* Ensure no arrows appear anywhere */
+.nav-link i {
+    display: none !important;
+}
+
+.dropdown .nav-link i {
+    display: none !important;
+}
 
 .hamburger {
     display: none;
